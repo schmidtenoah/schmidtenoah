@@ -4,7 +4,7 @@
 💡 Currently exploring **game development, cloud computing, and software engineering**  
 
 #### 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/schmidtenoah)  
+- [LinkedIn](https://www.linkedin.com/in/schmidtenoah)  
 - [Portfolio Website]() *(soon)*  
 
 # 💻 Tech Stack:
