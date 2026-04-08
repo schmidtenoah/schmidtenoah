@@ -1,4 +1,4 @@
-# 🎨 Noah Schmidt | Creative Developer
+# Noah Schmidt | Creative Developer
 
 ### *Merging engineering with design.*
 
@@ -6,7 +6,7 @@ I’m a **Computer Games Technology** student at [FH Wedel](https://www.fh-wedel
 
 ---
 
-### 🛠️ The Toolkit
+### The Toolkit
 
 #### **Core Systems & Graphics**
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
@@ -27,9 +27,9 @@ I’m a **Computer Games Technology** student at [FH Wedel](https://www.fh-wedel
 
 ---
 
-### 🔍 Current Focus
+### Current Focus
 *   **App Development:** Diving into the development of desktop and mobile apps - currently working on two projects.
 *   **Portfolio Building:** Curating my work and more about me inside a portfolio website.
 
-### 📫 Connect with me
+### Connect with me
 > [**LinkedIn**](https://www.linkedin.com/in/schmidtenoah) · [**Portfolio Website**]() *(Soon)*
