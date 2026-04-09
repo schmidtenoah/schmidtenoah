@@ -1,6 +1,6 @@
 # Noah Schmidt | Creative Developer
 
-### *Merging engineering with design.*
+### *Merging software engineering with design.*
 
 I’m a **Computer Games Technology** student at [FH Wedel](https://www.fh-wedel.de/). My focus lies at the intersection of **Computer Vision**, **Technical Art**, and **Human-Computer Interaction**.
 
