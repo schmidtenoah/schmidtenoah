@@ -32,4 +32,4 @@ I’m a **Computer Games Technology** student at [FH Wedel](https://www.fh-wedel
 *   **Portfolio Building:** Curating my work and more about me inside a portfolio website.
 
 ### Connect with me
-> [**LinkedIn**](https://www.linkedin.com/in/schmidtenoah) · [**Portfolio Website**]() *(Soon)*
+> [**LinkedIn**](https://www.linkedin.com/in/schmidtenoah) · [**Portfolio Website**](https://noahschmidt.dev)
